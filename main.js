@@ -1,5 +1,5 @@
 var server,
-ip = "127.0.0.1",
+ip = "0.0.0.0",
 port = 1337,
 http = require('http'),
 url = require('url');
